@@ -50,7 +50,7 @@ function App() {
     return (
       <div className="login-container">
         <div className="login-box">
-          <MessageSquare size={48} color="#00a884" />
+          <img src="url" alt="WhaTheLa.ico">
           <h1>WhaTheLa</h1>
           <p>Hızlı ve Anlık Mesajlaşma</p>
           <input
